@@ -47,7 +47,7 @@
     <build:Item Name="TargetFrameworkMoniker" Value=".NETFramework,Version=v4.5.1" />
     <build:Item Name="VisualStudio" Version="17.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2022" />
-    <build:Item Name="OperatingSystem" Version="10.0.19041.1 (WinBuild.160101.0800)" />
+    <build:Item Name="OperatingSystem" Version="10.0.22000.1 (WinBuild.160101.0800)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.4.33122.133" />
     <build:Item Name="ProjectGUID" Value="907a8ec3-a216-4283-bf37-4fd70b3715bf" />
     <build:Item Name="Microsoft.UniversalCRT.Debug" Version="10.0.19041.0" />

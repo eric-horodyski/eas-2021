@@ -1,1 +1,1 @@
-D:\Temp\eas-2021\windows\App\App\App (Package)\App (Package).wapproj;x86
+E:\GitHub\eas-2021-2\windows\App\App\App (Package)\App (Package).wapproj;x86

@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "/5hTOcbNkr7sEj110kc/bg7umkTfjqgl7X9JFGPd4dp7U855wz0SozgDaBQkLV+u0F3hXTJ4OxRh13BHG1fySw==",
+  "dgSpecHash": "2SXcMbpVzF1kHgp8bHIKZT+5DRH/nd5Ry3Ml32+1W0yBLCiOI3JkxufnbO4bORvaK0vgwC1jNFzgYx4+VrrcyQ==",
   "success": true,
-  "projectFilePath": "D:\\Temp\\eas-2021\\windows\\App\\App\\App (Package)\\App (Package).wapproj",
+  "projectFilePath": "E:\\GitHub\\eas-2021-2\\windows\\App\\App\\App (Package)\\App (Package).wapproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Eric\\.nuget\\packages\\capacitor\\1.5.5\\capacitor.1.5.5.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\desktopbridge.helpers\\1.2.2\\desktopbridge.helpers.1.2.2.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.data.sqlite\\6.0.0\\microsoft.data.sqlite.6.0.0.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.2\\microsoft.windowsappsdk.1.0.2.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Eric\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "C:\\Users\\max\\.nuget\\packages\\capacitor\\1.5.5\\capacitor.1.5.5.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\desktopbridge.helpers\\1.2.2\\desktopbridge.helpers.1.2.2.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite\\6.0.0\\microsoft.data.sqlite.6.0.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.2\\microsoft.windowsappsdk.1.0.2.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": [
     {

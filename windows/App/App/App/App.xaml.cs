@@ -1,6 +1,10 @@
 using Microsoft.UI.Xaml;
+using Microsoft.Windows.AppLifecycle;
+using System;
+using System.Diagnostics;
 using Windows.ApplicationModel.Activation;
 using Windows.UI.Xaml;
+using WinRT;
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -10,6 +14,10 @@ namespace App {
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
     public partial class App : Application {
+        public Window AppWindow {
+            get { return m_window; }
+            private set { }
+        }
         /// <summary>
         /// Initializes the singleton application object.  This is the first line of authored code
         /// executed, and as such is the logical equivalent of main() or WinMain().
@@ -28,17 +36,6 @@ namespace App {
             m_window.Activate();
         }
 
-    protected override void OnActivated(IActivatedEventArgs args)
-      {
-        if (args.Kind == ActivationKind.Protocol)
-        {
-          ProtocolActivatedEventArgs eventArgs = args as ProtocolActivatedEventArgs;
-          // TODO: Handle URI activation
-          // The received URI is eventArgs.Uri.AbsoluteUri
-        }
-      }
-
-
-    private Window m_window;
+        private Window m_window;
     }
 }

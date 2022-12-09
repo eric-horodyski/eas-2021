@@ -15,6 +15,7 @@ export class AuthenticationService extends IonicAuth {
     private routeService: RouteService,
   ) {
     super(nativeIonicAuthOptions);
+    (window as any).IonicAuth = this;
   }
 
   // Called as part of CURRENT implicit login flow only
